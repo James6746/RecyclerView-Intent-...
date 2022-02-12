@@ -63,6 +63,6 @@ public class MemberAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>
     }
 
     public interface OnClick{
-       public void accomplish(int position);
+        public void accomplish(int position);
     }
 }
